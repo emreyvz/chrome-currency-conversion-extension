@@ -30,6 +30,7 @@ This extension allows users to convert any currency to another with user preferr
 ## License & Attribution
 
 <img src="https://opensource.org/files/osi_keyhole_300X300_90ppi_0.png" height="24" width="24">
+
 - Currency data obtained from freeforexapi.com
 - CORS Policy bypassed by using allorigins.win
 - **[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)**
