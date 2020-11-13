@@ -1,4 +1,4 @@
-![](https://i.ibb.co/NjsBppC/screenshot.gif)
+![How to use extension?](https://github.com/emreyvz/chrome-currency-conversion-extension/blob/main/extension.gif?raw=true "How to use extension?")
 
 # Chrome Currency Conversion Extension
 
