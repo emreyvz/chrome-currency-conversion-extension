@@ -1,0 +1,32 @@
+{
+    "manifest_version": 2,
+    "name": "Currency Conversion Extension",
+    "description": "This extension allows users to convert any currency to another with user preferred shortcut key. Select money with your pointer and press your shortcut key. Easy as that.",
+    "version": "1.0",
+    "icons": { 
+        "16": "img/icon.png",
+        "48": "img/icon.png",
+       "128": "img/icon.png" 
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "css": [
+                "css/main.css"
+            ],
+            "js": [
+                "js/main.js"
+            ]
+        }
+    ],
+    "permissions": [
+        "storage"
+    ],
+    "browser_action": {
+        "default_icon": "img/icon.png",
+        "default_popup": "index.html",
+        "default_title": "Currency Conversion Extension"
+    }
+}
