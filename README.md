@@ -1,4 +1,4 @@
-![](https://i.ibb.co/4ZNkv33/screenshot.png)
+![](https://i.ibb.co/NjsBppC/screenshot.gif)
 
 # Chrome Currency Conversion Extension
 
