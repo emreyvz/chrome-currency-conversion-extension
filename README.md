@@ -23,7 +23,7 @@ This extension allows users to convert any currency to another with user preferr
 
 **Avaible shortcut keys that you can assign**
 
-- F2, F4, F8, F9, F10
+- F2, F4, F8, F9, F10  (More shortcut keys coming soon...)
 
 
 
