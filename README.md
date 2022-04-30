@@ -34,4 +34,4 @@ This extension allows users to convert any currency to another with user preferr
 - Currency data obtained from freeforexapi.com
 - CORS Policy bypassed by using allorigins.win
 - **[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)**
-- 2020 © Emre Yavuz
+- 2022 © Emre Yavuz
